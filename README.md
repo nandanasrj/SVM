@@ -58,5 +58,5 @@ To use **Support Vector Machines** for both **linear** and **non-linear classifi
 
 ---
 
-### ✅ Outcome:
+### Outcome:
 Successfully implemented, visualized, and optimized SVM models for binary classification using Scikit-learn.
